@@ -1,16 +1,17 @@
-### Hi there 👋
+## Aymen,
 
-<!--
-**DeXkingDev/DeXkingDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :rolling_eyes: About me !
+Hello i'm Aymen, I live and study in Algeria. I speek french !
 
-Here are some ideas to get you started:
+# :tools: I working on ?
+I'm working on a minecraft server [ArkaniaStudios](https://github.com/ArkaniaStudios).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :link: Contact me 
+- [aymenbnt05@gmail.com](mailto:aymenbnt05@gmail.com)
+
+---
+| languages  | others  |
+| -- | -- |
+| ![My Skills](https://skillicons.dev/icons?i=php&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,discord&perline=3) |
+
+
