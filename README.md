@@ -13,6 +13,6 @@ I'm working on a Solo 2D Game
 ---
 | languages  | others  |
 | -- | -- |
-| ![My Skills](https://skillicons.dev/icons?i=python&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,discord&perline=3) |
+| ![My Skills](https://skillicons.dev/icons?i=python,gdscript&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,discord&perline=3) |
 
 
