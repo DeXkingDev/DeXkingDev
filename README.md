@@ -1,6 +1,6 @@
-## Aymen,
+## Aimen,
 
-# 🤨 About me !
+# About me !
 Hello i'm Aimen, I live and study in Algeria. I speek french and sometimes English !
 
 # 🧰 I working on ?
