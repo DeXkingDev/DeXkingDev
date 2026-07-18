@@ -1,13 +1,14 @@
 ## Aymen,
 
 # 🤨 About me !
-Hello i'm Aymen, I live and study in Algeria. I speek french !
+Hello i'm Aimen, I live and study in Algeria. I speek french and sometimes English !
 
 # 🧰 I working on ?
-I'm working on a minecraft server [ArkaniaStudios](https://github.com/ArkaniaStudios).
+I'm working on a Solo 2D Game 
+(Learning Python and GDScript)
 
 # 🔗 Contact me 
-- [aymenbnt05@gmail.com](mailto:aymenbnt05@gmail.com)
+- [aimenmanane05@gmail.com](mailto: aimenmanane05@gmail.com)
 
 ---
 | languages  | others  |
